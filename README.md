@@ -21,7 +21,7 @@ Once again, in simple terms, the distributed cloud is you extending public cloud
 
 You can also check out this really interesting video talking all about distributed cloud! 
 
-{% youtube eJHZ8sMjsug %}
+[![Distributed Cloud](https://img.youtube.com/vi/eJHZ8sMjsug/0.jpg)](https://www.youtube.com/watch?v=eJHZ8sMjsug)
 
 ## How does distributed cloud work from a responsibility point of view?
 
@@ -42,13 +42,11 @@ With IBM Cloud Satellite, you are in full control of your data, and you can also
 
 Check out this cool video about an introduction to IBM Cloud Satellite! 
 
-
-{% youtube 3FZsx2Jn5R4 %}
+[![Satellite1](https://img.youtube.com/vi/3FZsx2Jn5R4/0.jpg)](https://www.youtube.com/watch?v=3FZsx2Jn5R4)
 
 And check out these cool use cases explaining how IBM Cloud Satellite fit into your environment!
 
-
-{% youtube 4H4dAtrl4p0 %}
+[![Satellite2](https://img.youtube.com/vi/4H4dAtrl4p0/0.jpg)](https://www.youtube.com/watch?v=4H4dAtrl4p0)
 
 [Sign up to IBM Cloud to get started](https://cloud.ibm.com/registration)
 
